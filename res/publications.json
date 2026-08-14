@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-08-14T13:45:55Z",
+  "syncedAt": "2026-08-14T19:15:38Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -2346,9 +2346,9 @@
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/9494034/",
       "paperSource": "crossref",
-      "esiHighlyCited": true,
       "code": "https://github.com/FGH00292/Hyperspectral-anomaly-detection-with-RGAE",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "esiHighlyCited": true
     },
     {
       "year": "2022",
