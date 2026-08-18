@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-08-18T01:52:29Z",
+  "syncedAt": "2026-08-18T07:05:56Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -559,7 +559,9 @@
       "citation": "Luyang Cao, Han Xu, Jian Zhang, Lei Qi, Jiayi Ma, Yinghuan Shi, and Yang Gao. \"Towards Perfection: Building Inter-component Mutual Correction for Retinex-based Low-light Image Enhancement\", in Proceedings of the ACM International Conference on Multimedia (ACM MM), pp. 9549-9558, Oct. 2025.",
       "links": [],
       "paper": "https://dl.acm.org/doi/10.1145/3746027.3754973",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/caoluyang0830/IRetinex.git",
+      "codeSource": "paper-abstract"
     },
     {
       "year": "2025",
@@ -719,7 +721,9 @@
       "citation": "Jie Hua, Zhongyuan Wang, Xin Tian, Qin Zou, Jinsheng Xiao, and Jiayi Ma. \"Full Perception Head: Bridging the Gap Between Local and Global Features\", IEEE/CAA Journal of Automatica Sinica, 12(7), pp. 1391-1406, Jul. 2025.",
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/11004449/",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/Idcogroup/FP-Head",
+      "codeSource": "paper-abstract"
     },
     {
       "year": "2025",
@@ -2276,7 +2280,8 @@
     {
       "year": "2022",
       "citation": "Qing Ma, Junjun Jiang, Xianming Liu, and Jiayi Ma. \"Multi-task Interaction learning for Spatiospectral Image Super-Resolution\", IEEE Transactions on Image Processing, 31, pp. 2950-2961, Apr. 2022.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2022",
@@ -2284,7 +2289,9 @@
       "links": [],
       "code": "https://github.com/EtPan/SQAD",
       "codeSource": "github-title-search",
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://ieeexplore.ieee.org/document/9732909/",
+      "paperSource": "crossref"
     },
     {
       "year": "2022",
@@ -2294,14 +2301,12 @@
       "paperSource": "crossref",
       "code": "https://github.com/KN-Zhang/LAL",
       "codeSource": "verified-excel",
-      "esiHighlyCited": true,
-      "paperChecked": true
+      "esiHighlyCited": true
     },
     {
       "year": "2022",
       "citation": "Zizhuo Li, Yong Ma, Xiaoguang Mei, Jun Huang, and Jiayi Ma*. \"Guided neighborhood affine subspace embedding for feature matching\", Pattern Recognition, 124, pp. 108489, Apr. 2022.",
       "links": [],
-      "paperChecked": true,
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S0031320321006658",
       "paperSource": "crossref"
     },
@@ -2406,7 +2411,9 @@
       "year": "2022",
       "citation": "Xin Tian, Rui Liu, Zhongyuan Wang, and Jiayi Ma. \"High quality 3D reconstruction based on fusion of polarization imaging and binocular stereo vision\", Information Fusion, 77, pp. 19-28, Jan. 2022.",
       "links": [],
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://linkinghub.elsevier.com/retrieve/pii/S1566253521001421",
+      "paperSource": "crossref"
     },
     {
       "year": "2022",
@@ -2446,12 +2453,11 @@
       "year": "2022",
       "citation": "Chengli Peng, Kaining Zhang, Yong Ma, and Jiayi Ma*. \"Cross Fusion Net: A Fast Semantic Segmentation Network for Small-scale Semantic Information Capturing in Aerial Scenes\", IEEE Transactions on Geoscience and Remote Sensing, 60, pp. 5601313, Jan. 2022.",
       "links": [],
+      "paper": "https://ieeexplore.ieee.org/document/9340601/",
+      "paperSource": "crossref",
       "code": "https://github.com/pcl111/CF-Net",
       "codeSource": "verified-excel",
-      "esiHighlyCited": true,
-      "paperChecked": true,
-      "paper": "https://ieeexplore.ieee.org/document/9340601/",
-      "paperSource": "crossref"
+      "esiHighlyCited": true
     },
     {
       "year": "2022",
@@ -2466,7 +2472,9 @@
       "links": [],
       "code": "https://github.com/StaRainJ/LAF",
       "codeSource": "github-title-search",
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://ieeexplore.ieee.org/document/9288945/",
+      "paperSource": "crossref"
     },
     {
       "year": "2022",
@@ -2670,7 +2678,8 @@
       "citation": "Ganghui Fan, Yong Ma, Jun Huang, Xiaoguang Mei, and Jiayi Ma. \"Robust graph autoencoder for hyperspectral anomaly detection\", in Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), pp. 1830-1834, Jun. 2021.",
       "links": [],
       "code": "https://github.com/FGH00292/Hyperspectral-anomaly-detection-with-RGAE",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2021",
@@ -2812,7 +2821,8 @@
       "citation": "Huabing Zhou, Jilei Hou, Wei Wu, Yanduo Zhang, Yuntao Wu, and Jiayi Ma*. \"Infrared and Visible Image Fusion Based on Semantic Segmentation\", Journal of Computer Research and Development (计算机研究与发展，CCF A类中文期刊), 58(2), pp. 436-443, Feb. 2021.",
       "links": [],
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2021",
