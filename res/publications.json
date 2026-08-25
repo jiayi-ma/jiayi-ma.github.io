@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-08-25T07:10:05Z",
+  "syncedAt": "2026-08-25T13:13:19Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -1342,7 +1342,7 @@
     },
     {
       "year": "2024",
-      "citation": "Yuan Gao, Weizhong Zhang, Wenhan Luo, Lin Ma, Jin-Gang Yu, Gui-Song Xia, and Jiayi Ma. \"Free Lunches in Auxiliary Learning: Exploiting Auxiliary Labels with Negligibly Extra Inference Cost\", in Proceedings of the International Conference on Learning Representations (ICLR), May 2024.",
+      "citation": "Yuan Gao, Weizhong Zhang, Wenhan Luo, Lin Ma, Jin-Gang Yu, Gui-Song Xia, and Jiayi Ma. \"Free Lunches in Auxiliary Learning: Exploiting Auxiliary Labels with Negligibly Extra Inference Cost\", in Proceedings of the International Conference on Learning Representations (ICLR), pp. 9927-9942, May 2024.",
       "links": []
     },
     {
@@ -2189,7 +2189,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SwinFusion",
       "codeSource": "verified-excel",
-      "citations": 1687,
+      "citations": 1688,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2201,7 +2201,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/PIAFusion",
       "codeSource": "verified-excel",
-      "citations": 1354,
+      "citations": 1356,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2273,7 +2273,7 @@
       "paperSource": "verified-excel",
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
       "codeSource": "verified-excel",
-      "citations": 1235,
+      "citations": 1237,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2549,7 +2549,7 @@
       "paperSource": "verified-excel",
       "code": "https://github.com/hanna-xu/U2Fusion",
       "codeSource": "verified-excel",
-      "citations": 2670,
+      "citations": 2672,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2615,7 +2615,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/SDNet",
       "codeSource": "verified-excel",
-      "citations": 826,
+      "citations": 827,
       "esiHighlyCited": true
     },
     {
@@ -2786,7 +2786,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/STDFusionNet",
       "codeSource": "github-title-search",
-      "citations": 706,
+      "citations": 707,
       "esiHighlyCited": true
     },
     {
@@ -2932,7 +2932,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/GANMcC",
       "codeSource": "verified-excel",
-      "citations": 901,
+      "citations": 902,
       "esiHighlyCited": true
     },
     {
@@ -2943,7 +2943,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/H-xie/Trans-ImageMatchingSurvey",
       "codeSource": "github-title-search",
-      "citations": 1233,
+      "citations": 1236,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3137,7 +3137,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/DDcGAN",
       "codeSource": "verified-excel",
-      "citations": 1535,
+      "citations": 1536,
       "esiHighlyCited": true
     },
     {
@@ -3155,7 +3155,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/FusionDN",
       "codeSource": "verified-excel",
-      "citations": 766
+      "citations": 767
     },
     {
       "year": "2020",
@@ -3297,7 +3297,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/FusionGAN",
       "codeSource": "github-title-search",
-      "citations": 2668,
+      "citations": 2670,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3372,7 +3372,7 @@
       "links": [],
       "code": "https://github.com/Jiawyang/LocalityPreservingMatching",
       "codeSource": "original-publication-page",
-      "citations": 717
+      "citations": 718
     },
     {
       "year": "2019",
@@ -3416,7 +3416,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/JorgeFCS/Image-fusion-GAN",
       "codeSource": "github-title-search",
-      "citations": 2111,
+      "citations": 2112,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3632,7 +3632,7 @@
       "links": [],
       "code": "https://github.com/Jiawyang/LocalityPreservingMatching",
       "codeSource": "original-publication-page",
-      "citations": 717
+      "citations": 718
     },
     {
       "year": "2017",
@@ -4023,7 +4023,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/VFC",
       "codeSource": "github-title-search",
-      "citations": 649
+      "citations": 650
     },
     {
       "year": "2014",
@@ -4116,5 +4116,6 @@
       "paper": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.903301",
       "paperSource": "crossref"
     }
-  ]
+  ],
+  "citationSyncedAt": "2026-08-25T13:14:27Z"
 }
