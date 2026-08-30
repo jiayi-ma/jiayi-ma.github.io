@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-08-30T11:57:23Z",
+  "syncedAt": "2026-08-30T16:43:10Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -2215,7 +2215,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SwinFusion",
       "codeSource": "verified-excel",
-      "citations": 1691,
+      "citations": 1702,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2227,7 +2227,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/PIAFusion",
       "codeSource": "verified-excel",
-      "citations": 1357,
+      "citations": 1365,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2299,7 +2299,7 @@
       "paperSource": "verified-excel",
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
       "codeSource": "verified-excel",
-      "citations": 1237,
+      "citations": 1245,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2575,7 +2575,7 @@
       "paperSource": "verified-excel",
       "code": "https://github.com/hanna-xu/U2Fusion",
       "codeSource": "verified-excel",
-      "citations": 2674,
+      "citations": 2683,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2590,7 +2590,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S1566253521001342",
       "paperSource": "crossref",
-      "citations": 968,
+      "citations": 970,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2643,7 +2643,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/SDNet",
       "codeSource": "verified-excel",
-      "citations": 827,
+      "citations": 830,
       "esiHighlyCited": true
     },
     {
@@ -2693,7 +2693,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S156625352100035X",
       "paperSource": "crossref",
-      "citations": 638,
+      "citations": 639,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2820,7 +2820,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/STDFusionNet",
       "codeSource": "github-title-search",
-      "citations": 707,
+      "citations": 708,
       "esiHighlyCited": true
     },
     {
@@ -2857,7 +2857,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/zhangyhuaee/KinD_plus",
       "codeSource": "github-title-search",
-      "citations": 1229,
+      "citations": 1231,
       "esiHighlyCited": true
     },
     {
@@ -2966,7 +2966,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/GANMcC",
       "codeSource": "verified-excel",
-      "citations": 902,
+      "citations": 903,
       "esiHighlyCited": true
     },
     {
@@ -2977,7 +2977,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/H-xie/Trans-ImageMatchingSurvey",
       "codeSource": "github-title-search",
-      "citations": 1236,
+      "citations": 1238,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3136,7 +3136,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/kuijiang94/MSPFN",
       "codeSource": "github-title-search",
-      "citations": 1135
+      "citations": 1138
     },
     {
       "year": "2020",
@@ -3171,7 +3171,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/DDcGAN",
       "codeSource": "verified-excel",
-      "citations": 1537,
+      "citations": 1541,
       "esiHighlyCited": true
     },
     {
@@ -3189,7 +3189,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/FusionDN",
       "codeSource": "verified-excel",
-      "citations": 768
+      "citations": 770
     },
     {
       "year": "2020",
@@ -3199,7 +3199,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/PMGI_AAAI2020",
       "codeSource": "verified-excel",
-      "citations": 793
+      "citations": 795
     },
     {
       "year": "2020",
@@ -3331,7 +3331,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/FusionGAN",
       "codeSource": "github-title-search",
-      "citations": 2671,
+      "citations": 2677,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3406,7 +3406,7 @@
       "links": [],
       "code": "https://github.com/Jiawyang/LocalityPreservingMatching",
       "codeSource": "original-publication-page",
-      "citations": 718
+      "citations": 719
     },
     {
       "year": "2019",
@@ -3450,7 +3450,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/JorgeFCS/Image-fusion-GAN",
       "codeSource": "github-title-search",
-      "citations": 2113,
+      "citations": 2120,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3504,8 +3504,8 @@
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/8340808/",
       "paperSource": "crossref",
-      "code": "https://github.com/jiayi-ma?tab=repositories",
-      "codeSource": "original-publication-page",
+      "code": "https://github.com/jiayi-ma/GLPM",
+      "codeSource": "github-title-search",
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3532,7 +3532,9 @@
       "citation": "Junjun Jiang, Qing Ma, Tao Lu, Zhongyuan Wang, and Jiayi Ma. \"Feature Matching based on Top K Rank Similarity\", in Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), pp. 2316-2320, Apr. 2018 (Oral).",
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/8461504/",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/LuJunru/SentenceSimilarityMatching",
+      "codeSource": "github-title-search"
     },
     {
       "year": "2018",
@@ -3668,7 +3670,7 @@
       "links": [],
       "code": "https://github.com/Jiawyang/LocalityPreservingMatching",
       "codeSource": "original-publication-page",
-      "citations": 718
+      "citations": 719
     },
     {
       "year": "2017",
@@ -3826,7 +3828,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/GTF",
       "codeSource": "github-title-search",
-      "citations": 1309,
+      "citations": 1311,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -4152,5 +4154,6 @@
       "paper": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.903301",
       "paperSource": "crossref"
     }
-  ]
+  ],
+  "citationSyncedAt": "2026-08-30T16:44:19Z"
 }
