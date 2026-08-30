@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-08-30T05:27:36Z",
+  "syncedAt": "2026-08-30T11:57:23Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -916,9 +916,9 @@
       "year": "2025",
       "citation": "Jiayang Li, Junjun Jiang, Pengwei Liang, Jiayi Ma, and Liqiang Nie. \"MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training\", IEEE Transactions on Image Processing, 34, pp. 1340-1353, Feb. 2025.",
       "links": [],
-      "esiHighlyCited": true,
       "code": "https://github.com/Henry-Lee-real/MaeFuse",
-      "codeSource": "paper-abstract"
+      "codeSource": "paper-abstract",
+      "esiHighlyCited": true
     },
     {
       "year": "2025",
@@ -3539,7 +3539,9 @@
       "citation": "Junjun Jiang, Yi Yu, Zheng Wang, and Jiayi Ma. \"Residual Learning for Face Sketch Synthesis\", in Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), pp. 1952-1956, Apr. 2018 (Oral).",
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/8462145/",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/junjun-jiang/RL",
+      "codeSource": "github-title-search"
     },
     {
       "year": "2018",
