@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-01T11:41:59Z",
+  "syncedAt": "2026-09-01T16:42:00Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -2481,7 +2481,9 @@
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/9237144/",
       "paperSource": "crossref",
-      "esiHighlyCited": true
+      "esiHighlyCited": true,
+      "code": "https://github.com/junjun-jiang/MSSG",
+      "codeSource": "paper-abstract"
     },
     {
       "year": "2022",
