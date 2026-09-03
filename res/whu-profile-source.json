@@ -1,7 +1,7 @@
 {
   "source": "https://mvp.whu.edu.cn/info/1326/1662.htm",
-  "syncedAt": "2026-09-02T21:05:31.993267+00:00",
-  "contentHash": "ced404e70ae74a271a1b1156a3ff710a9926e9039e02341c80855a435dea37a1",
+  "syncedAt": "2026-09-03T04:36:37.020574+00:00",
+  "contentHash": "0b32c1ab8d6089b6fc4ae9db0f8c73466c553d09a7e696c851834d617cdc3f3a",
   "paragraphs": [
     "马佳义",
     "邮箱：jyma2010@gmail.com",
@@ -23,6 +23,7 @@
     "2023.01-2026.12，国家自然科学基金面上项目—基于深度神经网络的自适应多场景图像融合统一模型及应用研究 2020.08-2022.07，湖北省重点研发计划—特高压输电装备状态智能感知技术研究与应用 2019.01-2021.12，湖北省自然科学基金“杰出青年人才项目”—高精准实时图像匹配理论及其应用研究 2018.01-2021.12，国家自然科学基金面上项目—基于概率推理的图像特征匹配统一理论模型及其应用研究 2016.06-2019.06，人才振兴计划—优秀人才培育项目 2016.06-2017.06，中国博士后科学基金会特别资助项目—图像特征匹配的导引混合模型与局部线性迁移约束研究 2016.01-2017.12，教育部联合基金—可见光/红外图像融合的目标搜索与智能识别侦查系统 2016.01-2018.12，国家自然科学基金青年项目—图像特征匹配的自适应渐进模型与局部线性迁移约束研究 2015.06-2016.08，中国博士后科学基金会面上项目(一等资助)—自适应渐进特征匹配算法研究及应用",
     "代表性论文论著",
     "在CVPR、ICCV、ICML、NeurIPS、IJCV、IEEE TPAMI、Cell等中科院一区期刊/CCF A类会议发表学术论文300余篇，ESI高被引论文60余篇，ESI热点论文20余篇（即引用排名本学科领域前0.1%的论文），谷歌学术引用5.6万余次，H指数105。代表性论文包括：",
+    "Han Xu, Jiajun Chen, Xunpeng Yi, Peili Li, and Jiayi Ma*. \"IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion\", International Journal of Computer Vision, In Press.",
     "Lei Cao, Hao Zhang, Peng Zhang, Daiguo Zhou, and Jiayi Ma*. \"Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation\", IEEE Transactions on Pattern Analysis and Machine Intelligence, In Press.",
     "Xunpeng Yi, Han Xu, Yibing Zhang, Hao Zhang, Linfeng Tang, and Jiayi Ma*. \"GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion\", IEEE Transactions on Pattern Analysis and Machine Intelligence, In Press.",
     "Meng Yang, Zizhuo Li, Linfeng Tang, Fan Fan, and Jiayi Ma. \"AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images\", in Proceedings of the European Conference on Computer Vision (ECCV), Sept. 2026.",
