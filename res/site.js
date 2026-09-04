@@ -22,7 +22,8 @@ document.addEventListener('DOMContentLoaded', function () {
          injected into this site. The static HTML remains a graceful fallback. */
   var sourceBio = document.getElementById('source-bio');
   var sourceResearch = document.getElementById('source-research');
-  if (sourceBio || sourceResearch) {
+  var sourceResearchSummary = document.getElementById('source-research-summary');
+  if (sourceBio || sourceResearch || sourceResearchSummary) {
     var setParagraphs = function (node, values) {
       if (!node || !Array.isArray(values) || !values.length) return;
       node.replaceChildren();
@@ -47,6 +48,9 @@ document.addEventListener('DOMContentLoaded', function () {
         if (!d) return;
         setParagraphs(sourceBio, d.bio);
         setList(sourceResearch, d.research);
+        if (sourceResearchSummary && Array.isArray(d.research) && d.research.length) {
+          sourceResearchSummary.textContent = d.research.join(' ');
+        }
       })
       .catch(function () {});
   }
