@@ -50,6 +50,7 @@ body {
     line-height: 1.75;
     color: var(--text);
     background: var(--bg);
+    padding-bottom: 58px;
     -webkit-font-smoothing: antialiased;
     transition: background-color 0.25s ease, color 0.25s ease;
 }
@@ -953,7 +954,12 @@ li sup {
 /* ===== Footer ===== */
 .bottombar {
     text-align: center;
-    padding: 22px 24px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 90;
+    padding: 13px 24px;
     color: #303030;
     font-family: var(--font-serif);
     font-size: 17px;
@@ -961,6 +967,7 @@ li sup {
     letter-spacing: 0;
     border-top: 1px solid var(--border);
     background: #ffffff;
+    box-shadow: 0 -1px 8px rgba(16, 24, 40, 0.05);
 }
 
 .footer-content {
@@ -987,6 +994,10 @@ sup, sub {
 
 /* ===== Responsive ===== */
 @media (max-width: 720px) {
+    body {
+        padding-bottom: 88px;
+    }
+
     .container {
         padding: 0 16px;
     }
