@@ -953,19 +953,25 @@ li sup {
 /* ===== Footer ===== */
 .bottombar {
     text-align: center;
-    padding: 26px 0;
-    color: var(--muted);
-    font-family: var(--font-sans);
-    font-size: 12px;
-    letter-spacing: 0.08em;
+    padding: 22px 24px;
+    color: #303030;
+    font-family: var(--font-serif);
+    font-size: 17px;
+    line-height: 1.55;
+    letter-spacing: 0;
     border-top: 1px solid var(--border);
-    background: var(--white);
+    background: #ffffff;
+}
+
+.footer-content {
+    max-width: 1280px;
+    margin: 0 auto;
 }
 
 .bottombar a {
-    color: var(--accent);
-    font-weight: 600;
-    border-bottom: none;
+    color: var(--primary);
+    font-weight: 700;
+    border-bottom: 1px solid color-mix(in srgb, currentColor 40%, transparent);
 }
 
 .bottombar a:hover {
