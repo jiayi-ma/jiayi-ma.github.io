@@ -962,6 +962,17 @@ li sup {
     background: var(--white);
 }
 
+.bottombar a {
+    color: var(--accent);
+    font-weight: 600;
+    border-bottom: none;
+}
+
+.bottombar a:hover {
+    color: var(--primary);
+    border-bottom: 1px solid currentColor;
+}
+
 /* ===== Sup/Sub ===== */
 sup, sub {
     font-size: 0.75em;
