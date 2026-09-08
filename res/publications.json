@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-08T16:40:40Z",
+  "syncedAt": "2026-09-08T21:11:33Z",
   "selectedTitles": [
     "IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion",
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
@@ -352,7 +352,9 @@
       "citation": "Wei Liu, Rui Nan, Jiayi Ma, Xin Chen, and Guoping Qiu. \"Self-iteration Image Haze Removal Using a Deep Curve-dehazing Model\", IEEE Transactions on Circuits and Systems for Video Technology, 36(4), pp. 4505-4520, Apr. 2026.",
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/11232477/",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/larrylanrui/HRCM",
+      "codeSource": "paper-abstract"
     },
     {
       "year": "2026",
