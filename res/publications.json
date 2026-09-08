@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-08T11:22:56Z",
+  "syncedAt": "2026-09-08T16:40:40Z",
   "selectedTitles": [
     "IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion",
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
@@ -2526,7 +2526,9 @@
       "citation": "Qing Ma, Junjun Jiang, Xianming Liu, and Jiayi Ma. \"Deep Unfolding Network for Spatiospectral Image Super-Resolution\", IEEE Transactions on Computational Imaging, 8, pp. 28-40, Jan. 2022.",
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/9656645/",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/junjun-jiang/US3RN",
+      "codeSource": "paper-abstract"
     },
     {
       "year": "2022",
