@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-10T04:46:40Z",
+  "syncedAt": "2026-09-10T11:23:46Z",
   "selectedTitles": [
     "IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion",
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
@@ -410,7 +410,9 @@
       "year": "2026",
       "citation": "Yupeng Gao, Tianyu Li, Keli Wang, Guoqing Wang, Jiayi Ma, Ningjuan Ruan, and Yang Yang. \"Integrating Semisupervision and Prototype Contrastive Learning for Robust Semantic Change Detection in Remote Sensing Images\", IEEE Transactions on Geoscience and Remote Sensing, 64, pp. 5601217, Jan. 2026.",
       "links": [],
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://ieeexplore.ieee.org/document/11303249/",
+      "paperSource": "crossref"
     },
     {
       "year": "2026",
@@ -577,7 +579,9 @@
       "links": [],
       "code": "https://github.com/Xinyu-Xiang/LCUNet",
       "codeSource": "paper-abstract",
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://dl.acm.org/doi/10.1145/3728425.3759923",
+      "paperSource": "crossref"
     },
     {
       "year": "2025",
