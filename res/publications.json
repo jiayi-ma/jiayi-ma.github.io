@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-12T04:39:13Z",
+  "syncedAt": "2026-09-12T10:50:41Z",
   "selectedTitles": [
     "IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion",
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
@@ -107,6 +107,11 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S1566253526005944",
       "paperSource": "crossref"
+    },
+    {
+      "year": "2026",
+      "citation": "Jun Long, Yining Xie, Kaiwen Zhang, Haochen Qi, Ming Hao, and Jiayi Ma. \"Retinal vascular biomarker concept learning with multimodal fusion for cardiovascular disease detection\", Engineering Applications of Artificial Intelligence, 183, pp. 116158, Nov. 2026.",
+      "links": []
     },
     {
       "year": "2026",
@@ -1291,7 +1296,8 @@
       "citation": "Zhen Yang, Jun Yue, Pedram Ghamisi, Shiliang Zhang, Jiayi Ma, and Leyuan Fang. \"Open Set Recognition in Real World\", International Journal of Computer Vision, 132(8), pp. 3208-3231, Aug. 2024.",
       "links": [],
       "code": "https://github.com/ageitgey/face_recognition",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2024",
@@ -1976,11 +1982,10 @@
       "year": "2023",
       "citation": "Xin Liu, Guobao Xiao, Riqing Chen, and Jiayi Ma. \"PGFNet: Preference-Guided Filtering Network for Two-View Correspondence Learning\", IEEE Transactions on Image Processing, 32, pp. 1367-1378, Feb. 2023.",
       "links": [],
-      "code": "https://github.com/guobaoxiao/PGFNet",
-      "codeSource": "github-title-search",
-      "paperChecked": true,
       "paper": "https://ieeexplore.ieee.org/document/10041834/",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/guobaoxiao/PGFNet",
+      "codeSource": "github-title-search"
     },
     {
       "year": "2023",
@@ -4220,6 +4225,5 @@
       "paper": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.903301",
       "paperSource": "crossref"
     }
-  ],
-  "citationSyncedAt": "2026-09-12T04:40:20Z"
+  ]
 }
