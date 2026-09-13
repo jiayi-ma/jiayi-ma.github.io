@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-13T04:52:02Z",
+  "syncedAt": "2026-09-13T11:56:30Z",
   "selectedTitles": [
     "IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion",
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
@@ -1534,8 +1534,7 @@
       "citation": "Shunxing Chen, Guobao Xiao, Ziwei Shi, Junwen Guo, and Jiayi Ma. \"SSL-Net: Sparse semantic learning for identifying reliable correspondences\", Pattern Recognition, 146, pp. 110039, Feb. 2024.",
       "links": [],
       "code": "https://github.com/guobaoxiao/SSL-Net",
-      "codeSource": "github-title-search",
-      "paperChecked": true
+      "codeSource": "github-title-search"
     },
     {
       "year": "2024",
@@ -1986,18 +1985,17 @@
       "year": "2023",
       "citation": "Yifan Xia, Jie Jiang, Yifan Lu, Wei Liu, and Jiayi Ma*. \"Robust feature matching via progressive smoothness consensus\", ISPRS Journal of Photogrammetry and Remote Sensing, 196, pp. 502-513, Feb. 2023.",
       "links": [],
-      "code": "https://github.com/XiaYifan1999/PSC",
-      "codeSource": "verified-excel",
-      "paperChecked": true,
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S0924271623000229",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/XiaYifan1999/PSC",
+      "codeSource": "verified-excel"
     },
     {
       "year": "2023",
       "citation": "Han Xu, Haochen Liang, and Jiayi Ma*. \"Unsupervised Multi-exposure Image Fusion Breaking Exposure Limits via Contrastive Learning\", in Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), pp. 3010-3017, Feb. 2023 (Oral).",
       "links": [],
       "paper": "https://ojs.aaai.org/index.php/AAAI/article/view/25404",
-      "paperSource": "verified-excel",
+      "paperSource": "crossref",
       "code": "https://github.com/HaoochenLiang/MEF-CL",
       "codeSource": "verified-excel",
       "paperChecked": true
@@ -2770,9 +2768,9 @@
       "year": "2021",
       "citation": "Erting Pan, Yong Ma, Jun Huang, Fan Fan, Hao Li, and Jiayi Ma. \"Hyperspectral image classification evaluated across different datasets\", Journal of Image and Graphics (中国图象图形学报), 26(8), pp. 1969-1977, Aug. 2021.",
       "links": [],
-      "paperChecked": true,
       "code": "https://github.com/ctian-galera/spectral-information-bottleneck",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2021",
@@ -3059,7 +3057,8 @@
     {
       "year": "2020",
       "citation": "Yi, Zhou, Jiayi Ma, and Jun Huang. \"Infrared and Visible Image Fusion based on Mutually Guided Filtering and Saliency Map\", Remote Sensing Technology and Application (遥感技术与应用，中文期刊), 35(6), pp. 1404-1413, Dec. 2020.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2020",
@@ -3194,7 +3193,8 @@
       "citation": "Jiayi Ma, Xinya Wang, and Junjun Jiang. \"Image Super-Resolution via Dense Discriminative Network\", IEEE Transactions on Industrial Electronics, 67(7), pp. 5687-5695, Jul. 2020.",
       "links": [],
       "code": "https://github.com/wxywhu/SRDDN-TIE",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2020",
