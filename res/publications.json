@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-18T16:26:51Z",
+  "syncedAt": "2026-09-18T20:56:38Z",
   "selectedTitles": [
     "IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion",
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
@@ -163,7 +163,9 @@
       "year": "2026",
       "citation": "Xuan Li, Zhaoming Feng, Xiang Yuan, Huabing Zhou, and Jiayi Ma*. \"SpeciFuse: Learning Degradation-Type Specificity for Robust Infrared and Visible Image Fusion under Composite Degradations\", in Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), Aug. 2025.",
       "links": [],
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://www.ijcai.org/proceedings/2026/155",
+      "paperSource": "crossref"
     },
     {
       "year": "2026",
@@ -4246,5 +4248,5 @@
       "paperSource": "crossref"
     }
   ],
-  "citationSyncedAt": "2026-09-18T16:28:01Z"
+  "citationSyncedAt": "2026-09-18T20:57:45Z"
 }
