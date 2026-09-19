@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-19T04:40:54Z",
+  "syncedAt": "2026-09-19T11:03:39Z",
   "selectedTitles": [
     "IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion",
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
@@ -2286,7 +2286,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SwinFusion",
       "codeSource": "verified-excel",
-      "citations": 1742,
+      "citations": 1745,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2298,7 +2298,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/PIAFusion",
       "codeSource": "verified-excel",
-      "citations": 1404,
+      "citations": 1406,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2370,7 +2370,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
       "codeSource": "verified-excel",
-      "citations": 1276,
+      "citations": 1278,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2658,7 +2658,7 @@
       "paperSource": "verified-excel",
       "code": "https://github.com/hanna-xu/U2Fusion",
       "codeSource": "verified-excel",
-      "citations": 2729,
+      "citations": 2733,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2673,7 +2673,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S1566253521001342",
       "paperSource": "crossref",
-      "citations": 985,
+      "citations": 987,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2776,7 +2776,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S156625352100035X",
       "paperSource": "crossref",
-      "citations": 648,
+      "citations": 649,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2950,7 +2950,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/zhangyhuaee/KinD_plus",
       "codeSource": "github-title-search",
-      "citations": 1242,
+      "citations": 1244,
       "esiHighlyCited": true
     },
     {
@@ -3070,7 +3070,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/H-xie/Trans-ImageMatchingSurvey",
       "codeSource": "github-title-search",
-      "citations": 1248,
+      "citations": 1249,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3231,7 +3231,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/kuijiang94/MSPFN",
       "codeSource": "github-title-search",
-      "citations": 1144
+      "citations": 1145
     },
     {
       "year": "2020",
@@ -3266,7 +3266,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/DDcGAN",
       "codeSource": "verified-excel",
-      "citations": 1551,
+      "citations": 1553,
       "esiHighlyCited": true
     },
     {
@@ -3284,7 +3284,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/FusionDN",
       "codeSource": "verified-excel",
-      "citations": 786
+      "citations": 787
     },
     {
       "year": "2020",
@@ -3501,7 +3501,7 @@
       "links": [],
       "code": "https://github.com/Jiawyang/LocalityPreservingMatching",
       "codeSource": "original-publication-page",
-      "citations": 720
+      "citations": 721
     },
     {
       "year": "2019",
@@ -3545,7 +3545,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/JorgeFCS/Image-fusion-GAN",
       "codeSource": "github-title-search",
-      "citations": 2145,
+      "citations": 2149,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3765,7 +3765,7 @@
       "links": [],
       "code": "https://github.com/Jiawyang/LocalityPreservingMatching",
       "codeSource": "original-publication-page",
-      "citations": 720
+      "citations": 721
     },
     {
       "year": "2017",
@@ -4250,5 +4250,5 @@
       "paperSource": "crossref"
     }
   ],
-  "citationSyncedAt": "2026-09-19T04:42:10Z"
+  "citationSyncedAt": "2026-09-19T11:04:49Z"
 }
