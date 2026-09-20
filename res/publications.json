@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-20T04:56:37Z",
+  "syncedAt": "2026-09-20T11:28:29Z",
   "selectedTitles": [
     "IterRF: Iterative and Interpretable Mutual Enhancement for Joint Multi-Modal Image Registration and Fusion",
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
@@ -2609,7 +2609,9 @@
       "citation": "Xinya Wang, Jiayi Ma*, and Junjun Jiang. \"Hyperspectral Image Super-Resolution via Recurrent Feedback Embedding and Spatial-Spectral Consistency Regularization\", IEEE Transactions on Geoscience and Remote Sensing, 60, pp. 5503113, Jan. 2022.",
       "links": [],
       "esiHighlyCited": true,
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://ieeexplore.ieee.org/document/9380508/",
+      "paperSource": "crossref"
     },
     {
       "year": "2022",
