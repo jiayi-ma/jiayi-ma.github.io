@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-23T11:41:39Z",
+  "syncedAt": "2026-09-23T17:05:10Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -959,25 +959,22 @@
       "paper": "https://ieeexplore.ieee.org/document/10891339/",
       "paperSource": "crossref",
       "code": "https://github.com/XiaYifan1999/GSLC",
-      "codeSource": "github-title-search",
-      "paperChecked": true
+      "codeSource": "github-title-search"
     },
     {
       "year": "2025",
       "citation": "Jiayang Li, Junjun Jiang, Pengwei Liang, Jiayi Ma, and Liqiang Nie. \"MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training\", IEEE Transactions on Image Processing, 34, pp. 1340-1353, Feb. 2025.",
       "links": [],
+      "paper": "https://ieeexplore.ieee.org/document/10893688/",
+      "paperSource": "crossref",
       "code": "https://github.com/Henry-Lee-real/MaeFuse",
       "codeSource": "paper-abstract",
-      "esiHighlyCited": true,
-      "paperChecked": true,
-      "paper": "https://ieeexplore.ieee.org/document/10893688/",
-      "paperSource": "crossref"
+      "esiHighlyCited": true
     },
     {
       "year": "2025",
       "citation": "Meng Yang, Jun Chen, Xin Tian, Longsheng Wei, and Jiayi Ma. \"VRTNet: Vector Rectiﬁer Transformer for Two-View Correspondence Learning\", IEEE Transactions on Multimedia, 27, pp. 515-530, Feb. 2025.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2025",
@@ -1070,8 +1067,7 @@
       "citation": "Xiaojie Qiu#*, Daniel Y. Zhu#, Yifan Lu#, ..., Jiayi Ma*, et al. \"Spatiotemporal modeling of molecular holograms\", Cell, 187(26), pp. 7351-7373, Dec. 2024 (Featured Article).",
       "links": [],
       "code": "https://github.com/aristoteo/spateo-release",
-      "codeSource": "paper-abstract",
-      "paperChecked": true
+      "codeSource": "paper-abstract"
     },
     {
       "year": "2024",
@@ -1231,8 +1227,7 @@
       "citation": "Qian Hu, Xinya Wang, Junjun Jiang, Xiao-Ping Zhang, and Jiayi Ma*. \"Exploring the Spectral Prior for Hyperspectral Image Super-resolution\", IEEE Transactions on Image Processing, 33, pp. 5260-5272, Sept. 2024.",
       "links": [],
       "code": "https://github.com/HuQ1an/SNLSR",
-      "codeSource": "github-title-search",
-      "paperChecked": true
+      "codeSource": "github-title-search"
     },
     {
       "year": "2024",
@@ -1285,8 +1280,7 @@
       "citation": "Meiqi Gong, Hao Zhang, Hebaixu Wang, Jun Chen, Jun Huang, Xin Tian, and Jiayi Ma*. \"Cross-Scale Domain Adaptation with Comprehensive Information for Pansharpening\", in Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), pp. 785-793, Aug. 2024.",
       "links": [],
       "code": "https://github.com/KN-Zhang/SDME",
-      "codeSource": "verified-excel",
-      "paperChecked": true
+      "codeSource": "verified-excel"
     },
     {
       "year": "2024",
@@ -1318,8 +1312,7 @@
       "citation": "Zhen Yang, Jun Yue, Pedram Ghamisi, Shiliang Zhang, Jiayi Ma, and Leyuan Fang. \"Open Set Recognition in Real World\", International Journal of Computer Vision, 132(8), pp. 3208-3231, Aug. 2024.",
       "links": [],
       "code": "https://github.com/ageitgey/face_recognition",
-      "codeSource": "github-title-search",
-      "paperChecked": true
+      "codeSource": "github-title-search"
     },
     {
       "year": "2024",
@@ -1335,8 +1328,7 @@
       "citation": "Kaining Zhang and Jiayi Ma*. \"Sparse-to-dense Multimodal Image Registration via Multi-Task Learning\", in Proceedings of the International Conference on Machine Learning (ICML), pp. 59490-59504, Jul. 2024.",
       "links": [],
       "code": "https://github.com/KN-Zhang/SDME",
-      "codeSource": "verified-excel",
-      "paperChecked": true
+      "codeSource": "verified-excel"
     },
     {
       "year": "2024",
@@ -1400,8 +1392,7 @@
     {
       "year": "2024",
       "citation": "Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei, and Jiayi Ma. \"Unmixing before Fusion: A Generalized Paradigm for Multi-modality-based Hyperspectral Image Synthesis\", in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9297-9306, Jun. 2024.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2024",
@@ -1413,8 +1404,7 @@
     {
       "year": "2024",
       "citation": "Yuan Gao, Weizhong Zhang, Wenhan Luo, Lin Ma, Jin-Gang Yu, Gui-Song Xia, and Jiayi Ma. \"Free Lunches in Auxiliary Learning: Exploiting Auxiliary Labels with Negligibly Extra Inference Cost\", in Proceedings of the International Conference on Learning Representations (ICLR), pp. 9927-9942, May 2024.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2024",
@@ -2800,7 +2790,8 @@
       "citation": "Erting Pan, Yong Ma, Jun Huang, Fan Fan, Hao Li, and Jiayi Ma. \"Hyperspectral image classification evaluated across different datasets\", Journal of Image and Graphics (中国图象图形学报), 26(8), pp. 1969-1977, Aug. 2021.",
       "links": [],
       "code": "https://github.com/ctian-galera/spectral-information-bottleneck",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2021",
@@ -2832,7 +2823,8 @@
     {
       "year": "2021",
       "citation": "Xin Tian, Wei Chen, Zhongyuan Wang, and Jiayi Ma*. \"Polarization Prior for Single-Photon Counting Image Denoising\", Optics Express, 29(14), pp. 21664-21682, Jul. 2021.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2021",
@@ -2851,7 +2843,8 @@
     {
       "year": "2021",
       "citation": "Xingyu Hu, Junjun Jiang, Xianming Liu, and Jiayi Ma. \"Zero-Shot Multi-Focus Image Fusion\", in Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), Jul. 2021 (Oral).",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2021",
@@ -3009,7 +3002,8 @@
       "citation": "Huabing Zhou, Jilei Hou, Wei Wu, Yanduo Zhang, Yuntao Wu, and Jiayi Ma*. \"Infrared and Visible Image Fusion Based on Semantic Segmentation\", Journal of Computer Research and Development (计算机研究与发展，CCF A类中文期刊), 58(2), pp. 436-443, Feb. 2021.",
       "links": [],
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2021",
@@ -3085,7 +3079,8 @@
     {
       "year": "2020",
       "citation": "Yi, Zhou, Jiayi Ma, and Jun Huang. \"Infrared and Visible Image Fusion based on Mutually Guided Filtering and Saliency Map\", Remote Sensing Technology and Application (遥感技术与应用，中文期刊), 35(6), pp. 1404-1413, Dec. 2020.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2020",
@@ -3220,7 +3215,8 @@
       "citation": "Jiayi Ma, Xinya Wang, and Junjun Jiang. \"Image Super-Resolution via Dense Discriminative Network\", IEEE Transactions on Industrial Electronics, 67(7), pp. 5687-5695, Jul. 2020.",
       "links": [],
       "code": "https://github.com/wxywhu/SRDDN-TIE",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2020",
@@ -3443,7 +3439,8 @@
       "citation": "Erting Pan, Yong Ma, Xiaoguang Mei, Xiaobing Dai, Fan Fan, Xin Tian, and Jiayi Ma. \"Spectral-spatial classification of hyperspectral image based on a joint attention network\", in Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 413-416, Jul. 2019 (Oral).",
       "links": [],
       "code": "https://github.com/JLJRF/ESSN",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2019",
@@ -3509,7 +3506,8 @@
       "links": [],
       "code": "https://github.com/Jiawyang/LocalityPreservingMatching",
       "codeSource": "original-publication-page",
-      "citations": 722
+      "citations": 722,
+      "paperChecked": true
     },
     {
       "year": "2019",
@@ -3517,7 +3515,8 @@
       "links": [],
       "code": "https://github.com/EtPan/SSAN",
       "codeSource": "github-title-search",
-      "esiHighlyCited": true
+      "esiHighlyCited": true,
+      "paperChecked": true
     },
     {
       "year": "2019",
@@ -3534,7 +3533,8 @@
       "links": [],
       "code": "https://github.com/junjun-jiang/RLPA",
       "codeSource": "github-title-search",
-      "esiHighlyCited": true
+      "esiHighlyCited": true,
+      "paperChecked": true
     },
     {
       "year": "2019",
