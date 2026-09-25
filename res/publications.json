@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-25T11:54:18Z",
+  "syncedAt": "2026-09-25T17:14:48Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -2869,7 +2869,9 @@
       "year": "2021",
       "citation": "Xingyu Hu, Junjun Jiang, Xianming Liu, and Jiayi Ma. \"Zero-Shot Multi-Focus Image Fusion\", in Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), Jul. 2021 (Oral).",
       "links": [],
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://ieeexplore.ieee.org/document/9428413/",
+      "paperSource": "crossref"
     },
     {
       "year": "2021",
