@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-09-27T05:21:52Z",
+  "syncedAt": "2026-09-27T12:07:15Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -117,9 +117,9 @@
       "year": "2026",
       "citation": "Jiajun Chen, Han Xu, Yunfei Huang, Zhuoya Zhang, Guangcan Liu, and Jiayi Ma. \"V2VFusion: Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion\", in Advances in Neural Information Processing Systems (NeurIPS), Dec. 2026.",
       "links": [],
-      "paperChecked": true,
       "code": "https://github.com/ChenDoubleJ/V2VFusion",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -178,21 +178,21 @@
     },
     {
       "year": "2026",
-      "citation": "Meng Yang, Zizhuo Li, Linfeng Tang, Fan Fan, and Jiayi Ma. \"AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images\", in Proceedings of the European Conference on Computer Vision (ECCV), Sept. 2026.",
+      "citation": "Meng Yang, Zizhuo Li, Linfeng Tang, Fan Fan, and Jiayi Ma. \"AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images\", in Proceedings of the European Conference on Computer Vision (ECCV), pp. 188-206, Sept. 2026.",
       "links": [],
       "paper": "https://link.springer.com/10.1007/978-3-032-37718-0_12",
       "paperSource": "crossref"
     },
     {
       "year": "2026",
-      "citation": "Tianwei Ye, Xiaoguang Mei, Yifan Xia, Fan Fan, Jun Huang, and Jiayi Ma*. \"SGMatch: Semantic-Guided Non-Rigid Shape Matching with Flow Regularization\", in Proceedings of the European Conference on Computer Vision (ECCV), Sept. 2026.",
+      "citation": "Tianwei Ye, Xiaoguang Mei, Yifan Xia, Fan Fan, Jun Huang, and Jiayi Ma*. \"SGMatch: Semantic-Guided Non-Rigid Shape Matching with Flow Regularization\", in Proceedings of the European Conference on Computer Vision (ECCV), pp. 190-208, Sept. 2026.",
       "links": [],
       "code": "https://github.com/YeTianwei/SGMatch",
       "codeSource": "github-discovery"
     },
     {
       "year": "2026",
-      "citation": "Yibing Zhang, Xunpeng Yi, Qinglong Yan, Yeda Wang, Han Xu, and Jiayi Ma*. \"UHD-MFF: Shattering Barriers in Multi-Focus Ultra-High-Definition Image Fusion via Learnable Lookup Tables\", in Proceedings of the European Conference on Computer Vision (ECCV), Sept. 2026.",
+      "citation": "Yibing Zhang, Xunpeng Yi, Qinglong Yan, Yeda Wang, Han Xu, and Jiayi Ma*. \"UHD-MFF: Shattering Barriers in Multi-Focus Ultra-High-Definition Image Fusion via Learnable Lookup Tables\", in Proceedings of the European Conference on Computer Vision (ECCV), pp. 294-311, Sept. 2026.",
       "links": [],
       "paper": "https://link.springer.com/10.1007/978-3-032-37362-5_16",
       "paperSource": "crossref",
@@ -210,7 +210,7 @@
     },
     {
       "year": "2026",
-      "citation": "Xuan Li, Zhaoming Feng, Xiang Yuan, Huabing Zhou, and Jiayi Ma*. \"SpeciFuse: Learning Degradation-Type Specificity for Robust Infrared and Visible Image Fusion under Composite Degradations\", in Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), Aug. 2025.",
+      "citation": "Xuan Li, Zhaoming Feng, Xiang Yuan, Huabing Zhou, and Jiayi Ma*. \"SpeciFuse: Learning Degradation-Type Specificity for Robust Infrared and Visible Image Fusion under Composite Degradations\", in Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), pp. 1388-1396, Aug. 2025.",
       "links": [],
       "paper": "https://www.ijcai.org/proceedings/2026/155",
       "paperSource": "crossref",
