@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-10-06T06:25:12Z",
+  "syncedAt": "2026-10-06T18:24:37Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -74,13 +74,6 @@
       "year": "2026",
       "citation": "Jie Hua, Zhongyuan Wang, Xin Tian, Jinsheng Xiao, Gang Wu, Tao Lu, and Jiayi Ma. \"Robust Information Feature Pyramid Network for Low-Visible Object Detection\", IEEE/CAA Journal of Automatica Sinica, In Press.",
       "links": []
-    },
-    {
-      "year": "2026",
-      "citation": "Borui Li, Yong Ma, Fan Fan, Xiaoguang Mei, and Jiayi Ma. \"Dual Prompt Learning for Unsupervised Degradation-Resistant Image Fusion\", IEEE Transactions on Multimedia, In Press.",
-      "links": [],
-      "paper": "https://ieeexplore.ieee.org/document/11552024/",
-      "paperSource": "crossref"
     },
     {
       "year": "2026",
@@ -161,6 +154,13 @@
       "citation": "Jun Chen, Wei Yu, Zhuo Cheng, Xin Tian, and Jiayi Ma. \"TOFusion: Text-guided and Object-aware Infrared and Visible Image Fusion\", Pattern Recognition, 179, Part A, pp. 113569, Nov. 2026.",
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S0031320326005352",
+      "paperSource": "crossref"
+    },
+    {
+      "year": "2026",
+      "citation": "Borui Li, Yong Ma, Fan Fan, Xiaoguang Mei, and Jiayi Ma. \"Dual Prompt Learning for Unsupervised Degradation-Resistant Image Fusion\", IEEE Transactions on Multimedia, 28, pp. 8798-8809, Oct. 2026.",
+      "links": [],
+      "paper": "https://ieeexplore.ieee.org/document/11552024/",
       "paperSource": "crossref"
     },
     {
@@ -2336,7 +2336,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SwinFusion",
       "codeSource": "verified-excel",
-      "citations": 1785,
+      "citations": 1789,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2348,7 +2348,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/PIAFusion",
       "codeSource": "verified-excel",
-      "citations": 1436,
+      "citations": 1440,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2421,7 +2421,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
       "codeSource": "verified-excel",
-      "citations": 1304,
+      "citations": 1306,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2713,7 +2713,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/U2Fusion",
       "codeSource": "verified-excel",
-      "citations": 2776,
+      "citations": 2781,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2730,7 +2730,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S1566253521001342",
       "paperSource": "crossref",
-      "citations": 1001,
+      "citations": 1002,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2785,7 +2785,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/SDNet",
       "codeSource": "verified-excel",
-      "citations": 855,
+      "citations": 857,
       "esiHighlyCited": true
     },
     {
@@ -2835,7 +2835,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S156625352100035X",
       "paperSource": "crossref",
-      "citations": 652,
+      "citations": 653,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2976,7 +2976,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/STDFusionNet",
       "codeSource": "github-title-search",
-      "citations": 721,
+      "citations": 722,
       "esiHighlyCited": true
     },
     {
@@ -3013,7 +3013,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/zhangyhuaee/KinD_plus",
       "codeSource": "github-title-search",
-      "citations": 1260,
+      "citations": 1261,
       "esiHighlyCited": true
     },
     {
@@ -3123,7 +3123,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/GANMcC",
       "codeSource": "verified-excel",
-      "citations": 912,
+      "citations": 914,
       "esiHighlyCited": true
     },
     {
@@ -3296,7 +3296,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/kuijiang94/MSPFN",
       "codeSource": "github-title-search",
-      "citations": 1152
+      "citations": 1154
     },
     {
       "year": "2020",
@@ -3331,7 +3331,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/DDcGAN",
       "codeSource": "verified-excel",
-      "citations": 1565,
+      "citations": 1567,
       "esiHighlyCited": true
     },
     {
@@ -3349,7 +3349,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/FusionDN",
       "codeSource": "verified-excel",
-      "citations": 795
+      "citations": 798
     },
     {
       "year": "2020",
@@ -3491,7 +3491,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/FusionGAN",
       "codeSource": "github-title-search",
-      "citations": 2750,
+      "citations": 2754,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3610,7 +3610,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/JorgeFCS/Image-fusion-GAN",
       "codeSource": "github-title-search",
-      "citations": 2166,
+      "citations": 2169,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3988,7 +3988,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/GTF",
       "codeSource": "github-title-search",
-      "citations": 1321,
+      "citations": 1322,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -4221,7 +4221,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/VFC",
       "codeSource": "github-title-search",
-      "citations": 653
+      "citations": 654
     },
     {
       "year": "2014",
@@ -4314,5 +4314,6 @@
       "paper": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.903301",
       "paperSource": "crossref"
     }
-  ]
+  ],
+  "citationSyncedAt": "2026-10-06T18:25:45Z"
 }
