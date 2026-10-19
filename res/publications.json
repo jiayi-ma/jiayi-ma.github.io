@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-10-19T13:22:56Z",
+  "syncedAt": "2026-10-19T22:23:12Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -2362,7 +2362,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SwinFusion",
       "codeSource": "verified-excel",
-      "citations": 1808,
+      "citations": 1811,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2374,7 +2374,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/PIAFusion",
       "codeSource": "verified-excel",
-      "citations": 1463,
+      "citations": 1468,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2446,7 +2446,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
       "codeSource": "verified-excel",
-      "citations": 1322,
+      "citations": 1324,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2738,7 +2738,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/U2Fusion",
       "codeSource": "verified-excel",
-      "citations": 2802,
+      "citations": 2808,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2755,7 +2755,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S1566253521001342",
       "paperSource": "crossref",
-      "citations": 1008,
+      "citations": 1009,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2810,7 +2810,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/SDNet",
       "codeSource": "verified-excel",
-      "citations": 860,
+      "citations": 862,
       "esiHighlyCited": true
     },
     {
@@ -2860,7 +2860,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S156625352100035X",
       "paperSource": "crossref",
-      "citations": 657,
+      "citations": 658,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2999,7 +2999,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/STDFusionNet",
       "codeSource": "github-title-search",
-      "citations": 723,
+      "citations": 724,
       "esiHighlyCited": true
     },
     {
@@ -3156,7 +3156,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/H-xie/Trans-ImageMatchingSurvey",
       "codeSource": "github-title-search",
-      "citations": 1273,
+      "citations": 1275,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3352,7 +3352,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/DDcGAN",
       "codeSource": "verified-excel",
-      "citations": 1574,
+      "citations": 1575,
       "esiHighlyCited": true
     },
     {
@@ -3370,7 +3370,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/FusionDN",
       "codeSource": "verified-excel",
-      "citations": 804
+      "citations": 805
     },
     {
       "year": "2020",
@@ -3512,7 +3512,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/FusionGAN",
       "codeSource": "github-title-search",
-      "citations": 2775,
+      "citations": 2777,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3631,7 +3631,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/JorgeFCS/Image-fusion-GAN",
       "codeSource": "github-title-search",
-      "citations": 2184,
+      "citations": 2186,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -4339,5 +4339,6 @@
       "paper": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.903301",
       "paperSource": "crossref"
     }
-  ]
+  ],
+  "citationSyncedAt": "2026-10-19T22:24:22Z"
 }
