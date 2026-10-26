@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-10-26T04:51:48Z",
+  "syncedAt": "2026-10-26T13:09:21Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -1993,7 +1993,9 @@
       "citation": "Jingtao Wang, Xin Liu, Luanyuan Dai, Jiayi Ma, Lifang Wei, Changcai Yang, and Riqing Chen. \"PG-Net: Progressive Guidance Network via Robust Contextual Embedding for Efficient Point Cloud Registration\", IEEE Transactions on Geoscience and Remote Sensing, 61, pp. 5701712, Apr. 2023.",
       "links": [],
       "paper": "https://ieeexplore.ieee.org/document/10098825/",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/changcaiyang/PG-Net",
+      "codeSource": "paper-abstract"
     },
     {
       "year": "2023",
