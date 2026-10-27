@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-10-27T05:10:05Z",
+  "syncedAt": "2026-10-27T12:17:00Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -2355,7 +2355,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SwinFusion",
       "codeSource": "verified-excel",
-      "citations": 1819,
+      "citations": 1828,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2367,7 +2367,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/PIAFusion",
       "codeSource": "verified-excel",
-      "citations": 1479,
+      "citations": 1485,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2440,7 +2440,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
       "codeSource": "verified-excel",
-      "citations": 1332,
+      "citations": 1338,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2732,7 +2732,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/U2Fusion",
       "codeSource": "verified-excel",
-      "citations": 2820,
+      "citations": 2829,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2749,7 +2749,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S1566253521001342",
       "paperSource": "crossref",
-      "citations": 1013,
+      "citations": 1014,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2804,7 +2804,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/SDNet",
       "codeSource": "verified-excel",
-      "citations": 865,
+      "citations": 870,
       "esiHighlyCited": true
     },
     {
@@ -2854,7 +2854,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S156625352100035X",
       "paperSource": "crossref",
-      "citations": 659,
+      "citations": 660,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2995,7 +2995,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/STDFusionNet",
       "codeSource": "github-title-search",
-      "citations": 727,
+      "citations": 729,
       "esiHighlyCited": true
     },
     {
@@ -3032,7 +3032,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/zhangyhuaee/KinD_plus",
       "codeSource": "github-title-search",
-      "citations": 1273,
+      "citations": 1275,
       "esiHighlyCited": true
     },
     {
@@ -3142,7 +3142,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/GANMcC",
       "codeSource": "verified-excel",
-      "citations": 919,
+      "citations": 923,
       "esiHighlyCited": true
     },
     {
@@ -3153,7 +3153,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/H-xie/Trans-ImageMatchingSurvey",
       "codeSource": "github-title-search",
-      "citations": 1278,
+      "citations": 1281,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3316,7 +3316,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/kuijiang94/MSPFN",
       "codeSource": "github-title-search",
-      "citations": 1165
+      "citations": 1166
     },
     {
       "year": "2020",
@@ -3351,7 +3351,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/DDcGAN",
       "codeSource": "verified-excel",
-      "citations": 1578,
+      "citations": 1586,
       "esiHighlyCited": true
     },
     {
@@ -3369,7 +3369,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/FusionDN",
       "codeSource": "verified-excel",
-      "citations": 810
+      "citations": 812
     },
     {
       "year": "2020",
@@ -3379,7 +3379,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/PMGI_AAAI2020",
       "codeSource": "verified-excel",
-      "citations": 817
+      "citations": 818
     },
     {
       "year": "2020",
@@ -3511,7 +3511,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/FusionGAN",
       "codeSource": "github-title-search",
-      "citations": 2788,
+      "citations": 2798,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3634,7 +3634,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/JorgeFCS/Image-fusion-GAN",
       "codeSource": "github-title-search",
-      "citations": 2193,
+      "citations": 2200,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -4016,7 +4016,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/GTF",
       "codeSource": "github-title-search",
-      "citations": 1329,
+      "citations": 1328,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -4343,5 +4343,6 @@
       "paper": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.903301",
       "paperSource": "crossref"
     }
-  ]
+  ],
+  "citationSyncedAt": "2026-10-27T12:18:00Z"
 }
