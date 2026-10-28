@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-10-28T12:59:35Z",
+  "syncedAt": "2026-10-28T22:37:55Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -1455,7 +1455,9 @@
       "citation": "Yantao Chen, Yong Ma, Xiaoguang Mei, Lin Zhang, Zhigang Fu, and Jiayi Ma. \"Triple-task mutual consistency for semi-supervised 3D medical image segmentation\", Computers in Biology and Medicine, 175, pp. 108506, Jun. 2024.",
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S0010482524005900",
-      "paperSource": "crossref"
+      "paperSource": "crossref",
+      "code": "https://github.com/Saocent/TTMC",
+      "codeSource": "paper-abstract"
     },
     {
       "year": "2024",
@@ -4353,5 +4355,6 @@
       "paper": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.903301",
       "paperSource": "crossref"
     }
-  ]
+  ],
+  "citationSyncedAt": "2026-10-28T22:39:02Z"
 }
