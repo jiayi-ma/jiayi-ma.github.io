@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-11-02T06:12:22Z",
+  "syncedAt": "2026-11-02T16:01:46Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -122,9 +122,9 @@
       "year": "2026",
       "citation": "Zhizheng Zhang, Ruixuan Jiang, Pengcheng Wei, Zijuan Li, Jindou Zhang, Rui Cao, Meng Yang, Zhenfeng Shao, Jiayi Ma, and Deren Li. \"GeoSAM: Geometry-guided semantic alignment and saliency-aware state space model for generalizable cross-modal image matching\", ISPRS Journal of Photogrammetry and Remote Sensing, 243, Part 1, pp. 729-748, Jan. 2027.",
       "links": [],
-      "paperChecked": true,
       "code": "https://github.com/whuzzzz/GeoSAM",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -144,9 +144,9 @@
       "year": "2026",
       "citation": "Han Xu, Yunfei Deng, Jiayi Ma, and Guangcan Liu. \"MODULE: A Mutual-Promoting Deep Unfolding Framework Towards Degradation-Robust Multi-modal Image Fusion\", in Advances in Neural Information Processing Systems (NeurIPS), Dec. 2026.",
       "links": [],
-      "paperChecked": true,
       "code": "https://github.com/Meskend/MODULE",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2026",
