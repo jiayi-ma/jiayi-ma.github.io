@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-11-07T06:03:02Z",
+  "syncedAt": "2026-11-07T13:07:32Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -122,7 +122,7 @@
     },
     {
       "year": "2026",
-      "citation": "Jiajun Chen, Han Xu, Yunfei Huang, Zhuoya Zhang, Guangcan Liu, and Jiayi Ma. \"V2VFusion: Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion\", in Advances in Neural Information Processing Systems (NeurIPS), Dec. 2026.",
+      "citation": "Jiajun Chen, Han Xu*, Yunfei Huang, Zhuoya Zhang, Guangcan Liu, and Jiayi Ma*. \"V2VFusion: Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion\", in Advances in Neural Information Processing Systems (NeurIPS), Dec. 2026.",
       "links": [],
       "code": "https://github.com/ChenDoubleJ/V2VFusion",
       "codeSource": "github-title-search"
@@ -134,7 +134,7 @@
     },
     {
       "year": "2026",
-      "citation": "Han Xu, Yunfei Deng, Jiayi Ma, and Guangcan Liu. \"MODULE: A Mutual-Promoting Deep Unfolding Framework Towards Degradation-Robust Multi-modal Image Fusion\", in Advances in Neural Information Processing Systems (NeurIPS), Dec. 2026.",
+      "citation": "Yunfei Deng, Han Xu, Jiayi Ma, and Guangcan Liu. \"MODULE: A Mutual-Promoting Deep Unfolding Framework Towards Degradation-Robust Multi-modal Image Fusion\", in Advances in Neural Information Processing Systems (NeurIPS), Dec. 2026.",
       "links": [],
       "code": "https://github.com/Meskend/MODULE",
       "codeSource": "github-title-search"
