@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-11-08T06:06:59Z",
+  "syncedAt": "2026-11-08T13:28:59Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -41,15 +41,13 @@
       "year": "2026",
       "citation": "Chuishun Kong, Jiayi Ma*, Fan Fan, Xiaoguang Mei, and Yong Ma. \"Jacobian-Based Identifiability Diagnostics for Multispectral CDOM Retrieval in Optically Complex Inland Waters\", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, In Press.",
       "links": [],
-      "paperChecked": true,
       "paper": "https://ieeexplore.ieee.org/document/11745875/",
       "paperSource": "crossref"
     },
     {
       "year": "2026",
       "citation": "Qiming Xiong, Yong Ma, Qing Ma, Xiaoguang Mei, Hao Zhang, and Jiayi Ma. \"BiRFusion: Bidirectional Restoration-Fusion Learning for Robust Infrared-Visible Image Fusion\", IEEE/CAA Journal of Automatica Sinica, In Press.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2026",
@@ -70,20 +68,17 @@
     {
       "year": "2026",
       "citation": "Chunrui Liu, Junjun Jiang, Gang Wu, Kui Jiang, Xianming Liu, and Jiayi Ma. \"Delving Into Light-Weight Single Image Super-Resolution: A Data Perspective\", Machine Intelligence Research, In Press.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2026",
       "citation": "Zizhuo Li, Songchu Deng, Linfeng Tang, and Jiayi Ma. \"Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation\", IEEE/CAA Journal of Automatica Sinica, In Press.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2026",
       "citation": "Jie Hua, Zhongyuan Wang, Xin Tian, Jinsheng Xiao, Gang Wu, Tao Lu, and Jiayi Ma. \"Robust Information Feature Pyramid Network for Low-Visible Object Detection\", IEEE/CAA Journal of Automatica Sinica, In Press.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2026",
@@ -126,7 +121,9 @@
       "links": [],
       "code": "https://github.com/whuzzzz/GeoSAM",
       "codeSource": "github-title-search",
-      "paperChecked": true
+      "paperChecked": true,
+      "paper": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626005320",
+      "paperSource": "crossref"
     },
     {
       "year": "2026",
@@ -429,7 +426,8 @@
       "citation": "Zequn Liu, Liangkuan Zhu, Yining Xie, Xiaoqing Hu, Ziyu Zhang, Jing Zhao, Haochen Qi, Jiajun Chen, and Jiayi Ma. \"M2PL-GAN: Multi-View Multi-Level Pathology Semantic Perception Learning for H&E-to-IHC Virtual Staining\", IEEE Transactions on Medical Imaging, 45(6), pp. 3082-3097, Jun. 2026.",
       "links": [],
       "code": "https://github.com/Pikachu-one/M2PL-GAN",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -457,7 +455,8 @@
     {
       "year": "2026",
       "citation": "Qinglong Yan, Xinyu Xiang, Hao Zhang, and Jiayi Ma*. \"A Transferable Adversarial Patch Generation Method for Object Detection\", Acta Automatica Sinica (自动化学报), 52(4), pp. 693-708, Apr. 2026.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -524,7 +523,8 @@
     {
       "year": "2026",
       "citation": "Zhizheng Zhang, Pengcheng Wei, Peilian Wu, Jindou Zhang, Boshen Chang, Zhenfeng Shao, Mingqiang Guo, Liang Wu, and Jiayi Ma. \"CM2-STNet: Cross-modal image matching with modal-adaptive feature modulation and sparse transformer fusion\", Information Fusion, 127, Part A, pp. 103750, Mar. 2026.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -868,7 +868,8 @@
     {
       "year": "2025",
       "citation": "Linshan Wu, Zhun Zhong, Jiayi Ma, Yunchao Wei, Hao Chen, Leyuan Fang, and Shutao Li. \"Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation\", IEEE Transactions on Pattern Analysis and Machine Intelligence, 47(8), pp. 6290-6306, Aug. 2025.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2025",
@@ -888,7 +889,8 @@
     {
       "year": "2025",
       "citation": "Bin Sun, Hang You, Wenbo Li, Xiangrui Liu, and Jiayi Ma. \"Dual-band payload image fusion and its application in low-altitude remote sensing\", Acta Aeronautica et Astronautica Sinica (航空学报), 46(15), pp. 331343, Aug. 2025.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2025",
@@ -959,7 +961,8 @@
     {
       "year": "2025",
       "citation": "Jiayi Ma, Xinyu Xiang, Qinglong Yan, Hao Zhang, Jun Huang, and Yong Ma. \"Patch-based Adversarial Example Generation Method for Multi-spectral Object Tracking\", Journal of Electronics & Information Technology (电子与信息学报), 47(6), pp. 1623-1632, Jun. 2025.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2025",
@@ -1080,7 +1083,8 @@
     {
       "year": "2025",
       "citation": "Meng Yang, Jun Chen, Xin Tian, Longsheng Wei, and Jiayi Ma. \"VRTNet: Vector Rectiﬁer Transformer for Two-View Correspondence Learning\", IEEE Transactions on Multimedia, 27, pp. 515-530, Feb. 2025.",
-      "links": []
+      "links": [],
+      "paperChecked": true
     },
     {
       "year": "2025",
@@ -4224,8 +4228,7 @@
       "code": "https://github.com/jiayi-ma/MR-RPM",
       "codeSource": "github-title-search",
       "esiHighlyCited": true,
-      "esiHot": true,
-      "paperChecked": true
+      "esiHot": true
     },
     {
       "year": "2015",
@@ -4328,8 +4331,7 @@
       "year": "2012",
       "citation": "Jiayi Ma, Ji Zhao, Huabing Zhou, Changcai Yang, and Jinwen Tian. \"A Robust Method for Estimating Two-View Geometry\", in Proceedings of the IEEE International Conference on Image Processing (ICIP), pp. 1745-1748, Sept. 2012 (PDF).",
       "links": [],
-      "paper": "https://sites.google.com/site/jiayima2013/ICIP2012b.pdf?attredirects=0&d=1",
-      "paperChecked": true
+      "paper": "https://sites.google.com/site/jiayima2013/ICIP2012b.pdf?attredirects=0&d=1"
     },
     {
       "year": "2012",
