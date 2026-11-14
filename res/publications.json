@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-11-14T06:29:20Z",
+  "syncedAt": "2026-11-14T18:08:27Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -2078,9 +2078,9 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/DIVFusion",
       "codeSource": "verified-excel",
+      "citations": 654,
       "esiHighlyCited": true,
-      "esiHot": true,
-      "citations": 654
+      "esiHot": true
     },
     {
       "year": "2023",
@@ -4365,5 +4365,5 @@
       "paperSource": "crossref"
     }
   ],
-  "citationSyncedAt": "2026-11-14T06:30:28Z"
+  "citationSyncedAt": "2026-11-14T18:09:36Z"
 }
