@@ -1,7 +1,7 @@
 {
   "source": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor/publications",
   "selectedSource": "https://sites.google.com/site/jiayima2013/jiayi-ma-%E9%A9%AC%E4%BD%B3%E4%B9%89-professor",
-  "syncedAt": "2026-11-20T07:21:21Z",
+  "syncedAt": "2026-11-20T20:25:47Z",
   "selectedTitles": [
     "Towards Heterogeneous-Degradation-Robust Image Fusion with Controllable Generative Modulation",
     "GText-IF: Leveraging Text-Driven Semantics for Degradation-Aware Image Fusion",
@@ -37,6 +37,16 @@
     "Robust Estimation of Nonrigid Transformation for Point Set Registration"
   ],
   "publications": [
+    {
+      "year": "2026",
+      "citation": "Liling Yang, Ning Chen, Jun Yue, Yidan Liu, Jiayi Ma, Pedram Ghamisi, Antonio Plaza, and Leyuan Fang, \"Survey of Multimodal Geospatial Foundation Models: Techniques, Applications, and Challenges\", IEEE Geoscience and Remote Sensing Magazine, In Press.",
+      "links": []
+    },
+    {
+      "year": "2026",
+      "citation": "Meng Yang, Jun Chen, Fan Fan, and Jiayi Ma. \"Coarse-to-Fine Multimodal Image Registration Flow Network Based on Knowledge Distillation\", IEEE Transactions on Image Processing, In Press.",
+      "links": []
+    },
     {
       "year": "2026",
       "citation": "Qiming Xiong, Yong Ma, Qing Ma, Xiaoguang Mei, Hao Zhang, and Jiayi Ma. \"BiRFusion: Bidirectional Restoration-Fusion Learning for Robust Infrared-Visible Image Fusion\", IEEE/CAA Journal of Automatica Sinica, In Press.",
@@ -139,14 +149,16 @@
       "citation": "Hao Zhang, Douyu Wu, Han Xu, Linfeng Tang, Qiwen Jin, and Jiayi Ma*. \"G2Fusion: Geometric-to-Generative Image Fusion via Registration-Restoration Evolution\", in Advances in Neural Information Processing Systems (NeurIPS), Dec. 2026.",
       "links": [],
       "code": "https://github.com/yuwu09/G2Fusion",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2026",
       "citation": "Linfeng Tang, Hu Tong, Zizhuo Li, Hao Zhang, Han Xu, Zhenfeng Shao, and Jiayi Ma*. \"CoVisIT: Cross-modal Prior Guided Diffusion Model for Visible-to-Infrared Image Translation\", in Advances in Neural Information Processing Systems (NeurIPS), Dec. 2026.",
       "links": [],
       "code": "https://github.com/Linfeng-Tang/CoVisIT",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -331,7 +343,8 @@
       "citation": "Shihua Zhang, Tianhao Xu, Zizhuo Li, Qing Ma, and Jiayi Ma*. \"SAG-GNN: Semantic-Aware Guided GNN for Descriptor-Free 2D-3D Matching\", in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 31410-31420, Jun. 2026.",
       "links": [],
       "code": "https://github.com/SuhZhang/SAG-GNN",
-      "codeSource": "verified-excel"
+      "codeSource": "verified-excel",
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -340,14 +353,16 @@
       "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_ReCoFuse_Ultra-Robust_Image_Fusion_via_Restorative_Multi-Modal_Diffusion_Reciprocal_Coupling_CVPR_2026_paper.html",
       "paperSource": "verified-excel",
       "code": "https://github.com/HaoZhang1018/ReCoFuse",
-      "codeSource": "verified-excel"
+      "codeSource": "verified-excel",
+      "paperChecked": true
     },
     {
       "year": "2026",
       "citation": "Hebaixu Wang, Jing Zhang, Haoyang Chen, Haonan Guo, Di Wang, Jiayi Ma*, and Bo Du. \"Residual Diffusion Bridge Model for Image Restoration\", in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 8375-8386, Jun. 2026. (Highlight)",
       "links": [],
       "code": "https://github.com/MiliLab/RDBM",
-      "codeSource": "github-title-search"
+      "codeSource": "github-title-search",
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -356,7 +371,8 @@
       "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_VideoFusion_A_Spatio-Temporal_Collaborative_Network_for_Multi-modal_Video_Fusion_CVPR_2026_paper.html",
       "paperSource": "verified-excel",
       "code": "https://github.com/Linfeng-Tang/VideoFusion",
-      "codeSource": "verified-excel"
+      "codeSource": "verified-excel",
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -365,7 +381,8 @@
       "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_MagicFuse_Single_Image_Fusion_for_Visual_and_Semantic_Reinforcement_CVPR_2026_paper.html",
       "paperSource": "verified-excel",
       "code": "https://github.com/zhayanping/MagicFuse",
-      "codeSource": "verified-excel"
+      "codeSource": "verified-excel",
+      "paperChecked": true
     },
     {
       "year": "2026",
@@ -1511,8 +1528,7 @@
     {
       "year": "2024",
       "citation": "Yuan Gao, Weizhong Zhang, Wenhan Luo, Lin Ma, Jin-Gang Yu, Gui-Song Xia, and Jiayi Ma. \"Free Lunches in Auxiliary Learning: Exploiting Auxiliary Labels with Negligibly Extra Inference Cost\", in Proceedings of the International Conference on Learning Representations (ICLR), pp. 9927-9942, May 2024.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2024",
@@ -1576,8 +1592,7 @@
     {
       "year": "2024",
       "citation": "Jingwen Chai, Ankang Li, Hao Zhang, Yong Ma, Xiaoguang Mei, and Jiayi Ma. \"3D multi-organ segmentation network combining local and global features and multi-scale interaction\", Journal of Image and Graphics (中国图象图形学报), 29(3), pp.95-109, Mar. 2024.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2024",
@@ -1798,8 +1813,7 @@
     {
       "year": "2023",
       "citation": "Jun Yue, Leyuan Fang, Shaobo Xia, Yue Deng, and Jiayi Ma. \"Dif-Fusion: Towards High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models\", IEEE Transactions on Image Processing, 32, pp. 5705-5720, Oct. 2023.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2023",
@@ -2074,7 +2088,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/DIVFusion",
       "codeSource": "verified-excel",
-      "citations": 657,
+      "citations": 658,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2103,8 +2117,7 @@
       "paper": "https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202110639?viewType=citedby-info",
       "paperSource": "verified-excel",
       "code": "https://github.com/HaoZhang1018/MAMFS-for-infrared-visible-fusion",
-      "codeSource": "github-title-search",
-      "paperChecked": true
+      "codeSource": "github-title-search"
     },
     {
       "year": "2023",
@@ -2181,8 +2194,7 @@
       "paper": "https://txtx.publish.founderss.cn/zh/article/doi/10.11834/jig.220422/",
       "paperSource": "verified-excel",
       "code": "https://github.com/Linfeng-Tang/Image-Fusion",
-      "codeSource": "verified-excel",
-      "paperChecked": true
+      "codeSource": "verified-excel"
     },
     {
       "year": "2023",
@@ -2321,8 +2333,7 @@
       "citation": "Youming Deng, Yansheng Li, Yongjun Zhang, Xiang Xiang, Jian Wang, Jingdong Chen, and Jiayi Ma. \"Hierarchical Memory Learning for Fine-Grained Scene Graph Generation\", in Proceedings of the European Conference on Computer Vision (ECCV), pp. 266-283, Oct. 2022.",
       "links": [],
       "code": "https://github.com/denghilbert/ECCV2022-Hierarchical-Memory-Learning-for-Fine-Grained-Scene-Graph-Generation",
-      "codeSource": "github-title-search",
-      "paperChecked": true
+      "codeSource": "github-title-search"
     },
     {
       "year": "2022",
@@ -2341,8 +2352,7 @@
     {
       "year": "2022",
       "citation": "Fang He, Xin Tian, Rui Liu, and Jiayi Ma. \"MoG-DS: Model-guided deep convolutional network for joint denoising and super-resolution of single-photon counting image\", Optics Express, 30(18), pp. 33068-33082, Aug. 2022.",
-      "links": [],
-      "paperChecked": true
+      "links": []
     },
     {
       "year": "2022",
@@ -2391,7 +2401,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SwinFusion",
       "codeSource": "verified-excel",
-      "citations": 1873,
+      "citations": 1876,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2403,7 +2413,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/PIAFusion",
       "codeSource": "verified-excel",
-      "citations": 1524,
+      "citations": 1525,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2475,7 +2485,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/SeAFusion",
       "codeSource": "verified-excel",
-      "citations": 1373,
+      "citations": 1374,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2767,7 +2777,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/U2Fusion",
       "codeSource": "verified-excel",
-      "citations": 2887,
+      "citations": 2889,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -2889,7 +2899,7 @@
       "links": [],
       "paper": "https://linkinghub.elsevier.com/retrieve/pii/S156625352100035X",
       "paperSource": "crossref",
-      "citations": 669,
+      "citations": 671,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3028,7 +3038,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/Linfeng-Tang/STDFusionNet",
       "codeSource": "github-title-search",
-      "citations": 739,
+      "citations": 740,
       "esiHighlyCited": true
     },
     {
@@ -3065,7 +3075,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/zhangyhuaee/KinD_plus",
       "codeSource": "github-title-search",
-      "citations": 1295,
+      "citations": 1296,
       "esiHighlyCited": true
     },
     {
@@ -3174,7 +3184,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/HaoZhang1018/GANMcC",
       "codeSource": "verified-excel",
-      "citations": 939,
+      "citations": 941,
       "esiHighlyCited": true
     },
     {
@@ -3185,7 +3195,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/H-xie/Trans-ImageMatchingSurvey",
       "codeSource": "github-title-search",
-      "citations": 1289,
+      "citations": 1290,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3381,7 +3391,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/hanna-xu/DDcGAN",
       "codeSource": "verified-excel",
-      "citations": 1606,
+      "citations": 1607,
       "esiHighlyCited": true
     },
     {
@@ -3541,7 +3551,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/jiayi-ma/FusionGAN",
       "codeSource": "github-title-search",
-      "citations": 2837,
+      "citations": 2840,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -3660,7 +3670,7 @@
       "paperSource": "crossref",
       "code": "https://github.com/JorgeFCS/Image-fusion-GAN",
       "codeSource": "github-title-search",
-      "citations": 2228,
+      "citations": 2230,
       "esiHighlyCited": true,
       "esiHot": true
     },
@@ -4364,5 +4374,6 @@
       "paper": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.903301",
       "paperSource": "crossref"
     }
-  ]
+  ],
+  "citationSyncedAt": "2026-11-20T20:26:56Z"
 }
